@@ -1,2 +1,2 @@
-# odin_recipes
-First project of the Odin Project using only HTML
+# Recipe_Page_Experiment
+Recipe Page using only HTML to experiment and gather practical experience
